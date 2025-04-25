@@ -1,0 +1,218 @@
+@media (max-width:1200px){
+
+    
+    .header-container {
+        max-width: 1200px;
+    }
+
+    .max-bl-balance,  .min-bl-balance, .middle-balance  {
+        left: 893px;
+    }
+    
+    .main-container {
+      max-width: 1200x;
+    }
+
+    .ymaps-2-1-79-map{
+        width: 900px;
+    }
+    
+    .history-container{
+        max-width: 1000px;
+    }
+    
+    .history-table {
+        max-width: 1000px;
+    }
+
+    .bank-div{
+        overflow-x:visible;
+    }
+    
+}
+@media (max-width:768px){
+    .h2{
+        font-size: 22px;
+    }
+
+    .login-container {
+        margin-top: 50px;
+    }
+
+    .history-container {
+        max-width: 600px;
+    }
+    .td {
+        padding: 14px 10px;
+        font-size: 10px;
+    }
+    .th{
+        padding: 10px;
+        font-size: 14px;
+    }
+    .history-table {
+        max-width: 600px;
+    }
+    .inf-p {
+        font-size: 18px;
+    }
+    .max-bl-balance, .min-bl-balance, .middle-balance {
+        left: 508px;
+    }
+}
+
+@media (max-width:700px)
+{
+    .ymaps-2-1-79-map{
+        width: 200px;
+    }
+    .login-container {
+        width: 200px;
+        margin-top: 50px;
+    }
+
+   .form-input{
+    min-width:0
+   }
+
+   .invalid{
+    font-size: 10px;
+   }
+
+   .form-block{
+    margin-bottom: 30px;
+   }
+
+   .header-logo{
+    display: none;
+   }
+
+   .header-btn{
+    padding: 3px;
+   } 
+
+   .header-btn-div {
+    gap: 10px;
+   }
+   .header-btn{
+    font-size: 12px;
+   }
+
+   .header-container {
+    justify-content: center;
+    }
+
+    .main-container {
+        max-width: 320px;
+        padding: 15px 10px;
+    
+      }
+
+    .h2{
+    font-size: 16px;
+    margin-right: 10px;
+    }  
+
+    .sort{
+        width: 100px;
+        font-size: 10px;
+        padding: 5px;
+    }
+
+    .main-btn{
+        width: 85px;
+        font-size: 10px;
+        padding: 5px;
+
+    }
+
+    .title-div {
+        margin-bottom: 20px;
+    }
+    .card-div{
+        min-width: 200px;
+    }
+
+    .number-p{
+        font-size: 14px;
+    }
+    
+    .valuta-container{
+        width: 200px;
+        padding: 25px;
+
+    }
+
+    .money-p{
+       font-size: 13px ;
+    }
+
+    .exchange-form {
+        flex-wrap: wrap;
+    }
+
+    .course-container  {
+        width: 200px;
+        padding: 25px;
+    }
+
+    .val-p, h3{
+        font-size: 14px;
+    }
+
+    .transfer-container{
+        max-width: 200px;
+    }
+
+    .chart-container{
+        max-width: 200px;
+    }
+    
+    .arrow{
+        width: 130px;
+    }
+
+    .inf-div {
+        flex-wrap: wrap;
+        margin-bottom: 15px;
+    }
+
+    .inf-p{
+        margin-bottom: 15px;
+    }
+
+    .h3, .inf-balance-p {
+        font-size: 16px;
+    }
+
+    .form-label {
+        font-size: 13px;
+    }
+
+    .transfer-btn {
+        margin-left: 0;
+    }
+
+    .chart-div{
+        width: 200px;
+    }
+
+    .max-balance,  .min-balance{
+        left: 200px;
+        font-size: 14px;
+    }
+
+    .max-bl-balance, .min-bl-balance, .middle-balance{
+        left: 180px;
+        font-size: 14px;
+    }
+
+    .avtorezation-invalid{
+        font-size: 10px;
+    }
+
+    .history-container{
+        padding: 25px;
+        overflow-x:auto;
+    }
+}
